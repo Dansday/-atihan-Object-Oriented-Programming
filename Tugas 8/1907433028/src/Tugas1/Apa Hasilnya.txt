@@ -1,0 +1,11 @@
+Pemilik Kendaraan : Akbar Yudhanto
+==============================
+Merk Kendaraan = Yamaha
+Pemilik Kendaraan = Akbar Yudhanto
+==============================
+Merk Kendaraan (Instan Vsriable) = null
+Pemilik Kendaraan (Instan Vsriable) = Akbar Yudhanto
+==============================
+Merk Motor = Yamaha
+Warna Motor = Hitam
+Pemilik Motor = Akbar Yudhanto

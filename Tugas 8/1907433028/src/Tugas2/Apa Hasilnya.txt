@@ -1,0 +1,16 @@
+variabel obj dapat berperan sebagai Lingkaran, Elips, atau Segitiga. Hal ini
+didasarkan bahwa setiap objek dari class Induk (superclass) dapat berperan
+sebagai class-class turunannya
+
+superclass -> Menggambar
+superclass -> Menghapus Gambar
+==============================
+subclass -> Menggambar Lingkaran
+subclass -> Menghapus Gambar Lingkaran
+==============================
+subclass -> Menggambar Elips
+subclass -> Menghapus Gambar Elips
+==============================
+subclass -> Menggambar Segitiga
+subclass -> Menghapus Gambar Segitiga
+==============================
